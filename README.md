@@ -2,7 +2,7 @@
   <b>Capture Windows Lock Screen Spotlight Image</b>
 </h1>
 
-<h4 align="center"><b>This python program will save the last 6 images stored in the Windows Spotlight Image folder and save them into your very own directory!</a>.
+<h4 align="center"><b>This python program will save the last 6 images stored in the Windows Spotlight Image folder and save them into your very own directory!</a>
 <br>
 </h4>
 
