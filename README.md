@@ -9,3 +9,5 @@
 # Description
 
 I wrote this python script to automatically save the Windows Lock Screen Spotlight Image to my desktop. If you'd like to use it, just tailor the specified items in the code to your PC and it will work for you!!
+
+Windows randomly displays awesome images for your background before you log in to your computer, but there is no simple method of retrieving these images. This program will save them to your desktop for you!!!
